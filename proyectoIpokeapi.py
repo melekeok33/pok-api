@@ -3,7 +3,7 @@
 #Fecha de creación: 21 noviembre de  2025
 #Procesos pendientes: N/A
 
-from tkinter import * #ventana, objetos
+from tkinter import Tk, Entry, Label, Text, Button #ventana, objetos
 import requests #API
 from PIL import Image, ImageTk #imagen
 from io import BytesIO #apoyo
